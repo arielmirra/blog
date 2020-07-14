@@ -107,11 +107,11 @@ class PolymerApp extends PolymerElement {
 customElements.define('polymer-app', PolymerApp);
 ```
 
-Esto es todo, los puntos interesantes a tener en cuenta son:
+Esto es todo lo que tenes que saber para empezar, los puntos interesantes a tener en cuenta son:
 
 - Los WebComponents son universales, no requieren ninguna librería y se pueden mostrar en cualquier navegador
 - Los componentes que creamos son reutilizables y podemos ver muchos más creados por otros [acá](https://www.webcomponents.org/)
-- Podemos crear aplicaciones únicamente con esta librería
+- Podemos crear aplicaciones enteras solo con esta librería
 
 
 ## Listo para mi, ahora seguís vos
