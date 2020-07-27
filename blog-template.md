@@ -43,7 +43,3 @@ Espero que te haya servido para aprender algo nuevo, ahora te toca seguir aprend
 Un saludo, [Ariel Mirra](https://linktr.ee/arielmirra).
 
 [instagam](https://www.instagram.com/ariel.mirra) | [linkedin](linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)
-
-https://www.polymer-project.org/
-https://developer.mozilla.org/es/docs/Web/Web_Components
-https://www.webcomponents.org/
