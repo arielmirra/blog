@@ -42,4 +42,4 @@ Espero que te haya servido para aprender algo nuevo, ahora te toca seguir aprend
 
 Un saludo, [Ariel Mirra](https://linktr.ee/arielmirra).
 
-[instagram](https://www.instagram.com/arielmirra) | [linked-in](linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)
+[instagram](https://www.instagram.com/arielmirra) | [linked-in](https://linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)
