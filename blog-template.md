@@ -37,9 +37,9 @@ Esto es todo, los puntos interesantes a tener en cuenta son:
 - tres
 
 
-## Listo para mi, ahora seguís vos
+## Listo para mí, ahora seguís vos
 Espero que te haya servido para aprender algo nuevo, ahora te toca seguir aprendiendo y profundizando. Gracias por estar acá.
 
 Un saludo, [Ariel Mirra](https://linktr.ee/arielmirra).
 
-[instagam](https://www.instagram.com/ariel.mirra) | [linkedin](linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)
+[instagram](https://www.instagram.com/arielmirra) | [linked-in](linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)
