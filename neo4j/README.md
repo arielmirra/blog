@@ -1,5 +1,6 @@
 # Qué son las bases de datos orientadas a grafos y para qué se usan
-No importa si estas empezando a programar o sos un ingeniero experimentado, en cada proyecto te toca responder la pregunta: ¿Qué tecnología debería usar? ¿Qué soporta mejor lo que quiero hacer? En un mundo donde cada vez hay más opciones, esta pregunta no es tan fácil de responder. Pero te aseguro una cosa:
+
+No importa si estás empezando a programar o sos un ingeniero experimentado, en cada proyecto te toca responder la pregunta: ¿Qué tecnología debería usar? ¿Qué soporta mejor lo que quiero hacer? En un mundo donde cada vez hay más opciones, esta pregunta no es tan fácil de responder. Pero te aseguro una cosa:
 
 > "La calidad del proyecto depende de los conocimientos y las tecnologías que el diseñador del mismo maneje" - Ariel Mirra
 
@@ -90,4 +91,4 @@ Espero que te haya servido para aprender algo nuevo, ahora te toca seguir aprend
 
 Un saludo, [Ariel Mirra](https://linktr.ee/arielmirra).
 
-[instagam](https://www.instagram.com/ariel.mirra) | [linkedin](linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)
+[instagram](https://www.instagram.com/arielmirra) | [linkedin](https://linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)

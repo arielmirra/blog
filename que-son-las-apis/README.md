@@ -65,4 +65,4 @@ Si llegaste hasta acá quiero darte las gracias y hacerte saber que te estas yen
 
 Un saludo, [Ariel Mirra](https://linktr.ee/arielmirra).
 
-[instagam](https://www.instagram.com/arielmirra) | [linkedin](https://linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)
+[instagram](https://www.instagram.com/arielmirra) | [linkedin](https://linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)

@@ -82,9 +82,9 @@ npm config rm https-proxy
 
 Esto vuelve la configuración de proxy a default y de repente todo funciona y compila y somos felices.
 
-## Listo para mi, ahora seguís vos
+## Listo para mí, ahora seguís vos
 Espero que te haya servido para aprender algo nuevo, ahora te toca seguir aprendiendo y profundizando. Gracias por estar acá y pensás que le puede servir a alguien que conocés o al equipo, compartilo.
 
 Un saludo, [Ariel Mirra](https://linktr.ee/arielmirra).
 
-[instagam](https://instagram.com/arielmirra) | [linkedin](https://linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)
+[instagram](https://instagram.com/arielmirra) | [linkedin](https://linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)

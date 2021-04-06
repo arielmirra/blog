@@ -1,4 +1,4 @@
-# Qué es PolymerJs y porqué tenés que saberlo
+# Qué es PolymerJs y porqué tiene tanto potencial para el desarrollo web
 
 A la hora de hacer una aplicación web, la discusión siempre es entre los mejores Frameworks como Angular o React o Vue y porqué cada uno es mejor o peor que el otro. Pero yo vengo a dar a conocer algo mucho más universal, compatible, y más fácil de aprender:  **PolymerJs**.
 
@@ -114,9 +114,9 @@ Esto es todo lo que tenes que saber para empezar, los puntos interesantes a tene
 - Podemos crear aplicaciones enteras solo con esta librería
 
 
-## Listo para mi, ahora seguís vos
+## Listo para mí, ahora seguís vos
 Espero que te haya servido para aprender algo nuevo, ahora te toca seguir aprendiendo y profundizando. Gracias por estar acá.
 
 Un saludo, [Ariel Mirra](https://linktr.ee/arielmirra).
 
-[instagam](https://www.instagram.com/ariel.mirra) | [linkedin](linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)
+[instagram](https://www.instagram.com/arielmirra) | [linkedin](https://linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)

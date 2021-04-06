@@ -1,6 +1,6 @@
-# Qué es React, Redux y cómo se relacionan
+# Qué es React, Redux y cómo se complementan para mejorar el desarrollo web
 
-![alt](https://photos.collectednotes.com/photos/642/dff981f3-1303-4782-ad99-75b97b723a87)
+![react redux logo](https://photos.collectednotes.com/photos/642/dff981f3-1303-4782-ad99-75b97b723a87)
 
 Partamos desde lo básico y vayamos agregando conocimiento. La idea es que salgas de acá en unos minutos sabiendo qué es [React](https://reactjs.org), qué es [Redux](https://redux.js.org) y cómo juntarlos para hacer ambos más poderosos.
 
@@ -168,4 +168,4 @@ Espero que te haya servido para aprender algo nuevo, ahora te toca seguir aprend
 
 Un saludo, [Ariel Mirra](https://linktr.ee/arielmirra).
 
-[instagam](https://www.instagram.com/ariel.mirra) | [linkedin](linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)
+[instagram](https://www.instagram.com/arielmirra) | [linkedin](https://linkedin.com/in/ariel-mirra) | [otros proyectos](https://linktr.ee/arielmirra)
